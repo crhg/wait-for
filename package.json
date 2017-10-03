@@ -6,5 +6,8 @@
   },
   "dependencies": {
     "bats": "^0.4.2"
+  },
+  "bin": {
+    "wait-for": "./wait-for"
   }
 }
